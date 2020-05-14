@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+
+<div class="intro">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Blog</h1>
+        <h2>{{ page.title }}</h2>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container pb-6">
+  <div class="row">
+    
+    <div class="col-12 col-md-6 mb-2 ">
+      <div class="testimonials testimonials-summary">
+        <div class="testimonials-meta">
+          <h2 class="testimonials-title">{{ page.title }}</h2>
+          <p class="testimonials-name">{{ page.author }}</p>
+        	<p>{{ page.date | date_to_string }}</p>
+
+
+        </div>
+        <div class="testimonials-content">{{ content }}</div>
+      </div>
+    </div>
+   
+  </div>
+</div>
