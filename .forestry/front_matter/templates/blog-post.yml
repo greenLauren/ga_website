@@ -8,3 +8,13 @@ fields:
 - type: text
   name: author
   label: author
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Blog Content
+  description: Enter blog content here
