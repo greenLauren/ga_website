@@ -10,6 +10,16 @@ fields:
 - type: text
   name: author
   label: author
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  default: now
 pages:
 - _blog/goodgrow.md
 - _posts/wdygg.md
