@@ -5,11 +5,11 @@ fields:
 - type: text
   name: layout
   label: layout
-  hidden: true
+  hidden: false
   default: posts
   config:
     required: true
-    min: 50
+    min: 
 - type: text
   name: author
   label: author
