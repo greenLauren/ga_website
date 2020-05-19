@@ -5,18 +5,10 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: default
 - type: text
   name: author
   label: author
-- name: content
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Blog Content
-  description: Enter blog content here
 pages:
 - _posts/2018-08-22-update.md
