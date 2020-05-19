@@ -1,49 +1,22 @@
 ---
-title: 'Research and Analysis'
-image: '/services/noun_591323.png'
-excerpt_separator: <!--more-->
----
+title: Research and Analysis
+image: "/services/noun_591323.png"
+excerpt_separator: "<!--more-->"
 
+---
 Green Analytics conducts objective social science research and analysis of the highest caliber.
 <!--more-->
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+###### Our goal is to meet and exceed clients’ needs through state of the art research and analysis of the highest caliber – on par with academic and scientific standards. We have a proven track record of completing projects on time and within budget.
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+# Insurance Bureau of Canada
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+Green Analytics, along with the Ontario Centre for Climate Impacts and Adaptation Resources, was commissioned by the Insurance Bureau of Canada to estimate the economic impacts of climate related extreme weather events for two pilot communities.
 
-## Postquam tamen
+# Daishowa-Marubeni International (DMI) Ltd.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Green Analytics, working with Silvacom Inc., completed a study for DMI and Shell Canada on the ecosystem service benefits resulting from the use of integrated land management and conservation offsets at Carmon Creek, Alberta.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+# Ontario Ministry of Natural Resources and Forestry
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Green Analytics has conducted numerous socio-economic assessments, including several for the Ontario Ministry of Natural Resources and Forestry. The assessments involve estimating the costs and benefits, including non-market values (such as ecosystem service values) as well as labour, gross domestic product and productivity impacts of natural resource policy.
