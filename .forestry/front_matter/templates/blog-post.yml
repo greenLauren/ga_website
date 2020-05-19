@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: Blog Content
   description: Enter blog content here
+pages:
+- _posts/2018-08-22-update.md
