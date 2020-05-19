@@ -11,5 +11,4 @@ fields:
   name: author
   label: author
 pages:
-- _posts/2018-08-22-update.md
 - _posts/2020-05-19-test.md
