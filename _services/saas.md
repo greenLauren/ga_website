@@ -1,45 +1,22 @@
 ---
-title: 'Software Development (SaaS)'
-image: '/services/default.png'
-excerpt_separator: <!--more-->
----
+title: Software Development (SaaS)
+image: "/services/default.png"
+excerpt_separator: "<!--more-->"
 
+---
 Green Analytics develops leading edge, user-friendly and customized software applications.
 <!--more-->
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Green Analytics designs and creates customized web-based applications and tools, empowering clients with both the data and the platform needed to answer strategic questions.
 
-## Geniti facinus praeruptam atris ab manus in
+Green Analytics also designs and builds complete stand-alone web applications that encompass entire business processes from end-to-end. Green Metrics Market, a carbon credit generation and sales platform, is one such example, bringing in energy production data from the field, compiling it, and generating carbon emissions credits, from a single unified platform.  
+  
+Green Metrics City is a user-friendly leading-edge web-based software application that allows energy users and decision makers to track, analyze, and report on energy consumption and greenhouse gas emissions data across time and space. A web-based application that requires no native software installations and is available to everyone with login credentials, Green Metrics City is designed to be simple to deploy, maintain, and cost-effective in the long-term. The objectives of Green Metrics City are:   
+  
+To enable online communication and engagement with commercial building owners, utility companies, municipal staff, and the public about the actual and potential for reducing GHG emissions from current and future commercial building.   
+  
+To provide a data and analytical platform to aggregate data inputs from a suite of urban growth, and urban planning tools to evaluate individual unit (e.g. building, vehicle, land area), neighbourhood and city-wide impacts of energy efficiency and renewable energy measures.   
+  
+To provide a data platform for private building owners, municipal staff, utility companies, and energy providers to be better informed and collaborate on prospective and current investments in renewable energy and energy efficiency.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
-
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
-
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
-
-## Vidit si probetne vertitur
-
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
-
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+[Learn about Green Metrics](https://greenmetrics.ca/)
