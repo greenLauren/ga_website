@@ -6,7 +6,7 @@ fields:
   name: layout
   label: layout
   hidden: true
-  default: default
+  default: posts
 - type: text
   name: author
   label: author
