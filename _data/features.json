@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Remote",
+    "description": "We have been a remote company for over 8 years",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Decision Support",
+    "description": "We help our clients with decision support systems",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Open Source Tools",
+    "description": "We use open source tools and programs",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
