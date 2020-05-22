@@ -1,6 +1,6 @@
 ---
 title: Mike Kennedy
-image: "/images/team/peter-van-eijk-711986-unsplash.jpg"
+image: "/images/team/mike-kennedy.jpg"
 jobtitle: Director, Founder
 email: peter@test.com
 linkedinurl: https://www.linkedin.com/
