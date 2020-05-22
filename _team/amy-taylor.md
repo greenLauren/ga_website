@@ -1,6 +1,6 @@
 ---
 title: Amy Taylor
-image: "/images/team/sage-kirk-485982-unsplash.jpg"
+image: "/images/team/amy-taylor.jpg"
 jobtitle: Director of Operations
 email: amy.taylor@greenanalytics.ca
 linkedinurl: ''
