@@ -1,6 +1,6 @@
 ---
 title: Kevin Horrocks
-image: "/images/team/sage-kirk-485982-unsplash.jpg"
+image: "/images/team/kevin-horrocks.jpg"
 jobtitle: Software Development / GIS
 email: kevin.horrocks@greenanalytics.ca
 linkedinurl: ''
