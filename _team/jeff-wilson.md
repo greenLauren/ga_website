@@ -1,6 +1,6 @@
 ---
 title: Jeff Wilson
-image: "/images/team/sage-kirk-485982-unsplash.jpg"
+image: "/images/team/jeff-wilson.jpg"
 jobtitle: Executive Officer, Founder
 email: jeff.wilson@greenanalytics.ca
 linkedinurl: ''
